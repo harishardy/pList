@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>state</key>
+	<string>mumbai</string>
+	<key>country</key>
+	<string>india</string>
+	<key>language</key>
+	<string>english</string>
+	<key>person1</key>
+	<dict>
+		<key>New item</key>
+		<string></string>
+	</dict>
+	<key>smartPhones</key>
+	<dict>
+		<key>apple</key>
+		<string>iphone6</string>
+		<key>samsung</key>
+		<string>galaxys10</string>
+		<key>onePlus</key>
+		<string>onePlus7</string>
+	</dict>
+	<key>cars</key>
+	<dict>
+		<key>audi</key>
+		<string>A8</string>
+		<key>bmw</key>
+		<string>D700</string>
+		<key>ferrari</key>
+		<string>roadster</string>
+	</dict>
+	<key>programmingLanguages</key>
+	<array>
+		<string>python</string>
+		<string>swift</string>
+		<string>java</string>
+	</array>
+</dict>
+</plist>
